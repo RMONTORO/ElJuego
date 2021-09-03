@@ -1,1 +1,3 @@
 Este es el malote
+
+Se le agrega un sombrero y un arma
