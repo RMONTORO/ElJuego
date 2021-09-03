@@ -3,3 +3,5 @@ mkdir -> make directory
 clear -> limpiar 
 ls -> list 
 pwd -> la carpeta actual
+
+Se agrego inteligencia artificial

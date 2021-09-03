@@ -1,3 +1,7 @@
 Este es el malote
 
+<<<<<<< HEAD
 Se le agrega un sombrero y un arma -Cambios de Ricardo al enemigo-
+=======
+Se le agrega un sombrero y un arma -Cambios de tadeo-
+>>>>>>> 0242b04c41f2864cfdb3d32b8c12e00b10a66044
